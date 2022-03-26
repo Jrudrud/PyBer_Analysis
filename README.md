@@ -4,7 +4,6 @@
   Pyber gave me access to their raw City Data and Ride Data. Using those files I explored the data to find out how the company is operating in their given markets. I found three main market types: Rural, Urban, and Suburban. Using these three city types, I analyzed three topics.  
   
     Areas of Focus
-   --------------
       i. The rides per city type 
       ii. The fare per city type 
      iii. The fare per driver
