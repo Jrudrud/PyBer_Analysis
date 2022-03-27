@@ -11,11 +11,19 @@
   I then limited my findings to a four month snap shot betweeen the months January-April of 2019. Here's what I found:
 
 ## Results
+
 | Total Rides   |               |
 | ------------- | ------------- |
 | Rural         | 125           |
 | Suburban      | 625           |
 | Urban         | 1625          |  
+
+
+| Total Drivers |
+|---------------|-----------|
+| Rural         | 537 |
+| Suburban      | 8,570 |
+| Urban         | 59,602 |
   
   There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
   
