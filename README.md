@@ -11,6 +11,8 @@
   I then limited my findings to a four month snap shot betweeen the months January-April of 2019. Here's what I found:
 
 ## Results
+  These charts display the total data per
+
 
 | Total Rides   |               |
 | ------------- | ------------- |
