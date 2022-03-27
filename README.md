@@ -11,7 +11,7 @@
   I then limited my findings to a four month snap shot betweeen the months January-April of 2019. Here's what I found:
 
 ## Results
-  These charts display the total data per
+  These charts display the total data for rides, drivers, and fares. It's clear that the Urban city type is the busiest for the company. 
 
 
 | Total Rides   |               |
@@ -34,10 +34,14 @@
 | Suburban    | $19, 356.33 |
 | Urban       | $39, 854.38 |
 
+An interesting point to analyze is the driver-to-customer ratio. 
 
+| Driver-to-Customer |          |
+| ------------------ | -------- |
+| Rural              |  4.3     |
+| Suburban           |  13.7    |
+| Urban              |  39.6    |
 
-
-  There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
   
 
 ## Summary
