@@ -54,7 +54,7 @@ Given the data I would like to make some suggestions:
       
        1. Lower the total drivers in the Urban city type
        2. Increase users in the Rural cities
-       3. capitalize on the weeks of peak activity and focus growth on the weeks of low activity.
+       3. Capitalize on the weeks of peak activity and focus growth on the weeks of low activity
     
     
 Due to how oversaturated the market is for the Urban cities, lowering the total drivers would not damage the customer experience. Simultaneously,            lowering the total drivers in the are will increase the business per driver which will enhance the driver experience for our                                employees.
