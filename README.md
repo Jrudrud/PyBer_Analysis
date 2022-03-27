@@ -8,7 +8,7 @@
       2. The fare per city type 
       3. The fare per driver
   
-  I then limited my findings to a four month snap shot betweeen the months of January-April of 2019. Here's what I found:
+  I then limited my findings to a four month snap shot betweeen the months January-April of 2019. Here's what I found:
 
 ## Results
 
