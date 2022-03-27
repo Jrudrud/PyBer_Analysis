@@ -11,7 +11,8 @@
   I then limited my findings to a four month snap shot betweeen the months January-April of 2019. Here's what I found:
 
 ## Results
-  These charts display the total data for rides, drivers, and fares. It's clear that the Urban city type is the busiest for the company. 
+ 
+ These charts display the total data for rides, drivers, and fares. It's clear that the Urban city type is the busiest for the company. The data suggests that the Urban city type is the busiest for the company, and the Rural city type is where most of the opportunities for growth are. The Suburban city type seems to a balance in the second place between the Rural and Urban cities. There were 5x more rides in the Suburban cities than the Rural. Whereas there are 2.6x more total rides in the Urban cities than the Suburban.
 
 
 | Total Rides   |               |
@@ -45,6 +46,10 @@ An interesting point to analyze is the driver-to-customer ratio. As the chart be
   
 
 ## Summary
+  
+
+
+
+
 <img width="451" alt="Pyber_fare_summary" src="https://user-images.githubusercontent.com/99840803/160264936-cde97d5b-d0bc-449a-9d2a-eb9329b8cff1.png">
-<img width="257" alt="weekly_summary" src="https://user-images.githubusercontent.com/99840803/160264937-aa8a2406-2790-4a5e-aef8-0af95afdcbb3.png">
-<img width="616" alt="fares_per_city_as_whole" src="https://user-images.githubusercontent.com/99840803/160264938-11499c76-f074-4d31-b278-738f1041b890.png">
+
