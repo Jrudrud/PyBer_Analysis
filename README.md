@@ -16,7 +16,7 @@
 | ------------- | ------------- |
 | Rural         | 125           |
 | Suburban      | 625           |
-| Urban         | 1,625          |  
+| Urban         | 1,625         |  
 
 
 | Total Drivers |           |
@@ -24,7 +24,17 @@
 | Rural         | 537       |
 | Suburban      | 8,570     |
 | Urban         | 59,602    |
-  
+
+
+| Total Fares |             |
+| ----------- | ----------- |
+| Rural       | $4,327.93   |
+| Suburban    | $19, 356.33 |
+| Urban       | $39, 854.38 |
+
+
+
+
   There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
   
 
