@@ -34,7 +34,7 @@
 | Suburban    | $19, 356.33 |
 | Urban       | $39, 854.38 |
 
-An interesting point to analyze is the driver-to-customer ratio. 
+An interesting point to analyze is the driver-to-customer ratio. As the chart below shows, the Urban city type seems oversaturated with drivers. This is a benefit with regards to the customer/user because they have quicker access to cheaper rides. The drivers in the Urban area are competing with one-another just to get one customer. On the other hand, The Rural city type only has four drivers per customer. In this market we can see deduce that there may not be an over-arching need for the business. 
 
 | Driver-to-Customer |          |
 | ------------------ | -------- |
