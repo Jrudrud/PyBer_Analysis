@@ -48,9 +48,9 @@ An interesting point to analyze is the driver-to-customer ratio. As the chart be
   
 
 ## Summary
-
-  Given the data I would like to make some suggestions:
-       1. Lower the total drivers in the Urban city type
+Given the data I would like to make some suggestions:
+      
+      1. Lower the total drivers in the Urban city type
           a. Due to how oversaturated the market is in this city, lowering the total drivers would not              damage the customer experience. Simultaneously, lowering the total drivers in the are will              increase the business per driver which will enhance the driver experience for our                      employees.
        2. Increase users in thr Rural cities
        3. 
