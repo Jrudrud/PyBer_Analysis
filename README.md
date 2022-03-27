@@ -45,6 +45,7 @@ An interesting point to analyze is the driver-to-customer ratio. As the chart be
 
 
 Analyzing the Pyber Fare Summary chart, we can see the overall business trends for the given months. 
+
 <img width="451" alt="Pyber_fare_summary" src="https://user-images.githubusercontent.com/99840803/160264936-cde97d5b-d0bc-449a-9d2a-eb9329b8cff1.png">
 
 ## Summary
@@ -52,8 +53,10 @@ Analyzing the Pyber Fare Summary chart, we can see the overall business trends f
 Given the data I would like to make some suggestions:
       
        1. Lower the total drivers in the Urban city type
-          a. Due to how oversaturated the market is in this city, lowering the total drivers would not damage the customer experience. Simultaneously,                  lowering the total drivers in the are will increase the business per driver which will enhance the driver experience for our                                employees.
        2. Increase users in the Rural cities
-       3. Using the Pyber Fair Summary chart, I reccomend that we try to capitalize on the weeks of peak activity and focus growth on the weeks of low               activity.
+       3. capitalize on the weeks of peak activity and focus growth on the weeks of low activity.
     
+    
+Due to how oversaturated the market is for the Urban cities, lowering the total drivers would not damage the customer experience. Simultaneously,            lowering the total drivers in the are will increase the business per driver which will enhance the driver experience for our                                employees.
+
 Making these changes will continue to enhance the user experience for all of the customers while protecting the employee experience for driving for our company. 
